@@ -91,6 +91,9 @@ If you prefer to keep a local shortcut or run the script offline:
 3. Simply **double-click [`Cloudflare-DNS.bat`](Cloudflare-DNS.bat)**.
    *(Or right-click [`Cloudflare-DNS.ps1`](Cloudflare-DNS.ps1) and choose **Run with PowerShell**)*.
 
+> [!TIP]
+> **Downloaded via browser?** Windows automatically flags files downloaded from the web with an "Unknown Publisher" security warning. To permanently stop this prompt, right-click the file -> **Properties** -> check **Unblock** at the bottom -> click **OK** (or use the one-liner command above, which never triggers this prompt).
+
 ---
 
 ## 🔍 Verification
