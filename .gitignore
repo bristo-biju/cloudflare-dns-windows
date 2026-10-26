@@ -1,0 +1,10 @@
+# Windows temporary files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs and scratch
+*.log
+scratch/
+test_*.ps1
+elevated_test_result.txt
